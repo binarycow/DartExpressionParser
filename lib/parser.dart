@@ -1,5 +1,4 @@
 ﻿import 'ast.dart';
-import 'package:characters/characters.dart';
 
 enum _TokenType {
   eof,
